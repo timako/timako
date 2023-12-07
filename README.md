@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 🔭 I’m currently working on hair rendering
+
 🌱 I’m currently learning Nvidia Falcor
+
 💬 Ask me about Game!
 
 <!--
