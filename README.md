@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working on hair rendering
+🌱 I’m currently learning Nvidia Falcor
+💬 Ask me about Game!
+
 <!--
 **timako/timako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
